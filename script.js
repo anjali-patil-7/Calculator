@@ -4,7 +4,7 @@ function buttonClick(val) {
 }
 
 function clearScreen() {
-    document.getElementById("display").value = "";
+    document.getElementById("display").value = "0";
 }
 
 function calculate() {
